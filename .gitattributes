@@ -1,3 +1,2 @@
-*.dart_tool  linguist-language=Dart
 *.java  linguist-language=Dart
 *.d  linguist-language=Dart
