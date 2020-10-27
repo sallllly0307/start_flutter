@@ -1,1 +1,2 @@
-Makefile -linguist-detectable
+Makefile -linguist-language
+Java -linguist-language
