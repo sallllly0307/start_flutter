@@ -1,2 +1,4 @@
-Makefile -linguist-documentation
-Java -linguist-documentation
+build/app/intermediates/flutter/release/flutter_build.d -linguist-documentation
+.dart_tool/flutter_build/02dedec029614ecf58c6b65fde0da5e5/kernel_snapshot.d -linguist-documentation
+.dart_tool/flutter_build/9e69818c6d07272812620c38904c31c8/flutter_assets.d -linguist-documentation
+.dart_tool/flutter_build/9e69818c6d07272812620c38904c31c8/kernel_snapshot.d -linguist-documentation
